@@ -1,0 +1,15 @@
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\bin\Debug\netcoreapp2.1\WebMotors.API.deps.json
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\bin\Debug\netcoreapp2.1\WebMotors.API.runtimeconfig.json
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\bin\Debug\netcoreapp2.1\WebMotors.API.runtimeconfig.dev.json
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\bin\Debug\netcoreapp2.1\WebMotors.API.dll
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\obj\Debug\netcoreapp2.1\WebMotors.API.csprojAssemblyReference.cache
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\obj\Debug\netcoreapp2.1\WebMotors.API.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\obj\Debug\netcoreapp2.1\WebMotors.API.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\bin\Debug\netcoreapp2.1\WebMotors.API.pdb
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\obj\Debug\netcoreapp2.1\WebMotors.API.dll
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\obj\Debug\netcoreapp2.1\WebMotors.API.pdb
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\bin\Debug\netcoreapp2.1\WebMotors.Data.dll
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\bin\Debug\netcoreapp2.1\WebMotors.Data.pdb
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\obj\Debug\netcoreapp2.1\WebMotors.API.csproj.CopyComplete
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.API\bin\Debug\netcoreapp2.1\appsettings.json

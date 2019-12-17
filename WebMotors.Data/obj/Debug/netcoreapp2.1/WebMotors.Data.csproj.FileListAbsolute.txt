@@ -1,0 +1,8 @@
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.Data\bin\Debug\netcoreapp2.1\WebMotors.Data.deps.json
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.Data\bin\Debug\netcoreapp2.1\WebMotors.Data.dll
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.Data\obj\Debug\netcoreapp2.1\WebMotors.Data.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.Data\obj\Debug\netcoreapp2.1\WebMotors.Data.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.Data\obj\Debug\netcoreapp2.1\WebMotors.Data.csprojAssemblyReference.cache
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.Data\bin\Debug\netcoreapp2.1\WebMotors.Data.pdb
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.Data\obj\Debug\netcoreapp2.1\WebMotors.Data.dll
+C:\Users\Alexandre\source\repos\WebMotors.API\WebMotors.Data\obj\Debug\netcoreapp2.1\WebMotors.Data.pdb
